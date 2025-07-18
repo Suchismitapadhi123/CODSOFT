@@ -1,0 +1,11 @@
+You: Hi
+BotSays: Hello! How can I assist you today?
+
+You: Who are you?
+BotSays: I’m BotSays — a simple chatbot created by Suchismita!
+
+You: Help
+BotSays: You can say hello, ask who I am, or just chat!
+
+You: Exit
+BotSays: Goodbye! Take care 😊
