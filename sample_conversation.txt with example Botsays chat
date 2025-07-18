@@ -1,11 +1,12 @@
-You: Hi
-BotSays: Hello! How can I assist you today?
+You: hello  
+Bot: Hi there! How can I help you today?
 
-You: Who are you?
-BotSays: I’m BotSays — a simple chatbot created by Suchismita!
+You: tell me a joke  
+Bot: Why don’t scientists trust atoms? Because they make up everything!
 
-You: Help
-BotSays: You can say hello, ask who I am, or just chat!
+You: what is photosynthesis?  
+Bot: Photosynthesis is the process by which green plants use sunlight to make their own food.
 
-You: Exit
-BotSays: Goodbye! Take care 😊
+You: quiz  
+Bot: Starting quiz mode... Let's begin!
+
