@@ -48,3 +48,28 @@ cd CODSOFT
 # Step 4: Run the chatbot
 python botsays.py
 
+## 💬 Example Conversation
+
+```
+> You: Hello  
+> BotSays: Hi there! How can I help you today?
+
+> You: What is 12 * 12?  
+> BotSays: The answer is 144.
+
+> You: Tell me a joke  
+> BotSays: Why don't scientists trust atoms? Because they make up everything!
+```
+
+---
+
+## ✨ Author
+
+- **Suchismita Padhi** 
+- Internship Platform: **CodSoft**
+
+---
+
+## 📄 License
+
+This project is for educational purposes under the CodSoft Internship. All rights reserved.
