@@ -1,0 +1,26 @@
+HOW TO RUN BOTSAYS (Rule-Based Chatbot)
+
+Follow these simple steps:
+
+1. Make sure Python is installed on your system (preferably version 3.10 or later).
+   To check your Python version, open terminal and type:
+       python --version
+
+2. Clone or download this GitHub repository:
+   https://github.com/Suchismitapadhi123/CODSOFT
+
+3. Open the terminal or command prompt.
+
+4. Navigate to the project folder using:
+       cd path/to/your/downloaded/folder
+
+5. Run the bot using the command:
+       python botsays.py
+
+6. Chat with BotSays!
+
+Example:
+> You: Hello  
+> BotSays: Hi there! How can I help you today?
+
+Happy chatting!
